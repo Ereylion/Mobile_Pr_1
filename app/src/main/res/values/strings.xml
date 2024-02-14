@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KosatkinEgorSergeevich</string>
+    <string name="button">button</string>
+    <string name="name">Name</string>
+    <string name="welcome">Welcome!</string>
+    <string name="Open">Open</string>
+    <string name="open_link">Open link</string>
+    <string name="textview">Hello!</string>
+</resources>
